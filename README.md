@@ -8,7 +8,7 @@ badges, a League, a rival, a syndicate with a motive, and a regional Pokédex
 drawn from the habitats the map actually produced. Then you play it — catching,
 battling, gym badges, the League, and a postgame.
 
-**[Play it here](https://YOUR-USERNAME.github.io/region-forge/)** ← replace with your Pages URL
+**[Play it here](https://casimbahadar.github.io/pokemon-region-forge/)**
 
 ## What's in the box
 
