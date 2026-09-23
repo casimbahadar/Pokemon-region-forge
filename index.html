@@ -4,6 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
 <title>Region Forge</title>
+<!-- Home-screen identity. iOS ignores data: URIs for apple-touch-icon, so these
+     are real files sitting beside index.html; the app still runs from the single
+     file alone, just with the browser's default icon. -->
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Region Forge">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#2F6146">
 <style>
 :root{
   --ink:#211E19; --ink-2:#4A443A; --ink-3:#7C7361;
